@@ -13,7 +13,7 @@ var l_serverImage = "images/Wonderland.png";
 
 /*Custom server name configuration
 Leave it blank for automatic server name*/
-var l_serverName = "sleekLoad 2";
+var l_serverName = "[LappyCloud] Cinema";
 
 /*Use a video for the background?
 Otherwise it will just use images*/
@@ -83,13 +83,12 @@ var l_musicDisplay = true;
 /*Music playlist
 Place how much Youtube IDs/.ogg you want*/
 var l_musicPlaylist = [
-	{youtube: "mOKqNxN4jWM", name: "DJ Snake - Middle (Audio) ft. Bipolar Sunshine"},
-	{youtube: "KDxJlW6cxRk", name: "Duke Dumont - Ocean Drive"},
-	{youtube: "BMaT2nGaEVg", name: "99 Souls - The Girl Is Mine"},
+{youtube: "KDxJlW6cxRk", name: "Duke Dumont - Ocean Drive"},
 {youtube: "t5747BhezKM", name: "Tez Cadey - Seve"},
 {youtube: "Ly7uj0JwgKg", name: "Flume - Never be like you"},
 {youtube: "9hFVQVsFxD4", name: "Тернер - Fxck My Life"},
-{youtube: "tBKNaUazmqY", name: "Hikiray - Stuck Inside My Head"}
+{youtube: "tBKNaUazmqY", name: "Hikiray - Stuck Inside My Head"},
+{youtube: "r_BSpbziJu4", name: "NieR: Automata OST Amusement Park Medium Vocals"}
 ];
 
 /*Random music order?*/
