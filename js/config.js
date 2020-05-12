@@ -87,7 +87,9 @@ var l_musicPlaylist = [
 	{youtube: "KDxJlW6cxRk", name: "Duke Dumont - Ocean Drive"},
 	{youtube: "BMaT2nGaEVg", name: "99 Souls - The Girl Is Mine"},
 {youtube: "t5747BhezKM", name: "Tez Cadey - Seve"},
-{youtube: "Ly7uj0JwgKg", name: "Flume - Never be like you"}
+{youtube: "Ly7uj0JwgKg", name: "Flume - Never be like you"},
+{youtube: "9hFVQVsFxD4", name: "Тернер - Fxck My Life"},
+{youtube: "tBKNaUazmqY", name: "Hikiray - Stuck Inside My Head"}
 ];
 
 /*Random music order?*/
