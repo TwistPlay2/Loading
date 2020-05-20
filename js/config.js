@@ -88,7 +88,8 @@ var l_musicPlaylist = [
 {youtube: "Ly7uj0JwgKg", name: "Flume - Never be like you"},
 {youtube: "9hFVQVsFxD4", name: "Тернер - Fxck My Life"},
 {youtube: "tBKNaUazmqY", name: "Hikiray - Stuck Inside My Head"},
-{youtube: "r_BSpbziJu4", name: "NieR: Automata OST Amusement Park Medium Vocals"}
+{youtube: "r_BSpbziJu4", name: "NieR: Automata OST Amusement Park Medium Vocals"},
+{youtube: "2aTQ5FpDf2M", name: "NieR: Automata OST - Weight of the World"}
 ];
 
 /*Random music order?*/
